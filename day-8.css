@@ -1,0 +1,11 @@
+.target li {
+  background-color: white; 
+ }
+ 
+ .target li:first-child {
+   background-color: red;
+ }
+ 
+ .target li:last-child {
+   background-color: yellow;
+ }
