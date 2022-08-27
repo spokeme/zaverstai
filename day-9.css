@@ -1,0 +1,8 @@
+.target li {
+  background-color: white; 
+ }
+ 
+ .target li:nth-child(3),
+ .target li:nth-child(4) {
+  background-color: red; 
+ }
