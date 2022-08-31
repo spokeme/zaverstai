@@ -1,0 +1,68 @@
+body {
+    width: 300px;
+    margin: 0;
+    padding: 0;
+    padding-top: 15px;
+  
+    font-size: 0;
+    text-align: center;
+    background-color: white;
+  }
+  
+  .block {
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    margin-bottom: 1px;
+    margin-right: 1px;
+  
+    background-color: black;
+  }
+  
+  
+  .block1 {
+  background:  url('cat_poo.png') no-repeat #000000 10px 12px;
+    
+  }
+  
+  .block2 {
+    background:  url('cat_poo.png') no-repeat #f1c40f 10px 12px;
+  }
+  
+  .block3 {
+    background:  url('cat_hiss.png') no-repeat #e74c3c 10px 12px;
+  }
+  
+  .block4 {
+    background:  url('cat_walk.png') no-repeat #3498db 60px 12px;
+  }
+  
+  .block5 {
+    background:  url('cat_walk.png') no-repeat #3498db -30px 12px;
+  }
+  
+  .block6 {
+    background:  url('cat_slippers.png') no-repeat #27ae60 10px 12px;
+  }
+  
+  .block7 {
+    background: #bdc3c7;
+  }
+  
+  .block8 {
+    background:  url('cat_grumpy.png') no-repeat #95a5a6 40px 12px;
+  }
+  
+  .block9 {
+    background:  url('cat_grumpy.png') no-repeat #bdc3c7 -50px 12px;
+  }
+  /*
+  Используемые изображения:
+  cat_poo.png
+  
+  cat_hiss.png
+  cat_walk.png
+  cat_slippers.png
+  cat_grumpy.png
+  */
+  
