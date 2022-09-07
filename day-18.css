@@ -1,0 +1,24 @@
+
+  ul:empty {
+    
+    height: 70px;
+    border: 2px dashed #55bb99;
+    
+  }
+  
+  
+  li:not(:empty) {
+    
+    height: 90px;
+    width: 60px;
+    
+  }
+  
+   li:not(:empty) span{
+    
+     display: block;
+    
+  }
+ 
+  
+  
