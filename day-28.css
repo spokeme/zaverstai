@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+  }
+  
+  .page-main {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .bio {
+    width: 270px;
+    padding: 10px;
+  }
+  
+  .photo {
+    width: 200px;
+    padding: 10px;
+  }
+  
